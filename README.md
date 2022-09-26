@@ -11,3 +11,7 @@ This will run on Vs Code
 install the dependencies required for project here
 npm install @ant-design/icons axios react-chat-engine
 
+
+#https://chatengine.io/
+Used for setup the project 
+#then npm start
