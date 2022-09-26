@@ -8,3 +8,5 @@ this will run on Vs Code
 
 
 #Step-2
+npm install @ant-design/icons axios react-chat-engine
+
