@@ -7,3 +7,5 @@
 
 
 # Firebase.google.com For authentication purpose used here
+
+# https://developers.facebook.com/   login and create an app with it
