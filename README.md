@@ -1,7 +1,9 @@
-# Chat-Application-ReactJS
-
-# npm i axios
+# Chat-Application-ReactJS 
+# Command Below step by step 
+# npx create-react-app
 
 # npm install 
+# npm i axios
 
-Firbase.google.com For authentication purpose used here
+
+# Firebase.google.com For authentication purpose used here
