@@ -14,7 +14,7 @@ install the dependencies required for project here
 #npm install @ant-design/icons axios react-chat-engine
 
 
-#Firebase  Used here
+#Firebase  Used here https://firebase.google.com/
 Used for setup the project 
 # npm start  or
 # Yarn install
